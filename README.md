@@ -1,4 +1,4 @@
-# Ricerca Operativa - Gurobi
+# Magazzino - Ricerca Operativa
 
 ## Collaboratori
 
