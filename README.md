@@ -9,7 +9,7 @@
 
 Risolvere un problema di gestione e ottimizzazione di un magazzino tramite modelli matematici di programmazione lineare e mista intera, con l'obiettivo di individuare la soluzione ottima e valutarne la qualità.
 
-## Cosa ho fatto
+## Cosa è stato fatto
 
 - formulato il problema in termini di variabili decisionali, vincoli e funzione obiettivo;
 - implementato il modello in Gurobi per la soluzione del problema di ottimizzazione;
